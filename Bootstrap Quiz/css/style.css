@@ -1,0 +1,24 @@
+* div{
+  border: 5px solid white;
+}
+.col-lg-3{
+  background-color: #f9e530;
+  height: 160px;
+}
+.col-lg-9, .col-sm-9{
+  background-color: #ff912b;
+}
+.col-lg-12{
+  background-color: #d43469;
+  height: 80px;
+}
+.col-lg-0{
+  visibility: hidden;
+}
+#wait, .col-lg-4 {
+  background-color: #58bcc6;
+  height: 320px;
+}
+#txt{
+  background-color: #ffffff;
+}
